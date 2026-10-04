@@ -135,8 +135,8 @@ const trials = [
     id: 13,
     phase: "test",
     condition: "suspicious",
-    utterance: "La pala grande",
-    item: "The big blue shovel",
+    utterance: "La pala blu",
+    item: "The blue shovel",
     image: "/stimuli/trial_13.png",
     greyCell: "bottomRight",
     correctAnswer: "topLeft"
@@ -168,8 +168,8 @@ const trials = [
     id: 16,
     phase: "test",
     condition: "suspicious",
-    utterance: "Il pesce piccolo",
-    item: "The small orangefish",
+    utterance: "Il pesce arancione",
+    item: "The orange fish",
     image: "/stimuli/trial_16.png",
     greyCell: "bottomRight",
     correctAnswer: "topLeft"
@@ -223,8 +223,8 @@ const trials = [
     id: 21,
     phase: "test",
     condition: "suspicious",
-    utterance: "La valigia rossa",
-    item: "The red suitcase",
+    utterance: "La valigia grande",
+    item: "The big blue suitcase",
     image: "/stimuli/trial_21.png",
     greyCell: "topRight",
     correctAnswer: "topLeft"
@@ -234,8 +234,8 @@ const trials = [
     id: 22,
     phase: "test",
     condition: "suspicious",
-    utterance: "il fischietto arancione",
-    item: "The orange whistle",
+    utterance: "il fischietto piccolo",
+    item: "The small orange whistle",
     image: "/stimuli/trial_22.png",
     greyCell: "bottomRight",
     correctAnswer: "topRight"
